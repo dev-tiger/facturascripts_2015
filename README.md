@@ -12,3 +12,10 @@ https://www.facturascripts.com/feedback
 ## Colaborar
 Si desdeas colaborar puedes dirigirte a la sección en nuestra web con todas las tareas pendientes, documentación y chat para programadores:
 https://www.facturascripts.com/tareas
+
+### Sobre el Fork
+Este es un fork del proyecto inicial **facturascripts_2015** versión **2017.030**, el cual fue sometido a las siguientes mejoras:
+
+**_Actualmente en desarrollo._**
+
+Si requiere de información adicional sobre este fork, contactar al ingeniero Andrés Álvarez - <andresalvarezs10@gmail.com>
