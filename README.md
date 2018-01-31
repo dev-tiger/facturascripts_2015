@@ -17,5 +17,3 @@ https://www.facturascripts.com/tareas
 Este es un fork del proyecto inicial **facturascripts_2015** versión **2017.030**, el cual fue sometido a las siguientes mejoras:
 
 **_Actualmente en desarrollo._**
-
-Si requiere de información adicional sobre este fork, contactar al ingeniero Andrés Álvarez - <andresalvarezs10@gmail.com>
