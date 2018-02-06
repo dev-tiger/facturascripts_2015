@@ -14,6 +14,6 @@ Si desdeas colaborar puedes dirigirte a la sección en nuestra web con todas las
 https://www.facturascripts.com/tareas
 
 ## Sobre este fork
-Este es un fork del proyecto inicial **facturascripts_2015** versión **2017.030**, el cual fue sometido a las siguientes mejoras:
+Este es un fork del proyecto inicial **facturascripts_2015** versión **2017.031**, el cual fue sometido a las siguientes mejoras:
 
 **_Actualmente en desarrollo._**
